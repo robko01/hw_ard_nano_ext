@@ -1,0 +1,35 @@
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\sym-lib-table” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\sym-lib-table-2018-12-22-12-22-20”.
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\Robko01.sch” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\Robko01-2018-12-22-12-22-20.sch”.
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\Robko01.pro” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\Robko01-2018-12-22-12-22-20.pro”.
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\Robko01-cache.lib” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\Robko01-cache-2018-12-22-12-22-20.lib”.
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\Robko01-rescue.lib” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\Robko01-rescue-2018-12-22-12-22-20.lib”.
+Info: Backing up file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\Robko01-rescue.dcm” to file “C:\Users\POLYGONTeam\Documents\KiCAD\Robko01\rescue-backup\Robko01-rescue-2018-12-22-12-22-20.dcm”.
+Info: Adding library “Robko01-rescue”, file “${KIPRJMOD}/Robko01-rescue.lib” to project symbol library table.
+Symbol “CONN_01X15” mapped to symbol library “Robko01-rescue”.
+Symbol “CONN_01X15” mapped to symbol library “Robko01-rescue”.
+Symbol “CONN_01X13” mapped to symbol library “Robko01-rescue”.
+Symbol “CONN_01X13” mapped to symbol library “Robko01-rescue”.
+Symbol “CONN_01X13” mapped to symbol library “Robko01-rescue”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “+5V” mapped to symbol library “power”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “CONN_01X04” mapped to symbol library “Robko01-rescue”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “+5V” mapped to symbol library “power”.
+Symbol “+5V” mapped to symbol library “power”.
+Symbol “CONN_01X04” mapped to symbol library “Robko01-rescue”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “+5V” mapped to symbol library “power”.
+Symbol “CONN_01X06” mapped to symbol library “Robko01-rescue”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “+5V” mapped to symbol library “power”.
+Symbol “CONN_01X02” mapped to symbol library “Robko01-rescue”.
+Symbol “GND” mapped to symbol library “power”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “LED” mapped to symbol library “Device”.
+Symbol “GND” mapped to symbol library “power”.
+Info: Symbol library table mapping complete!
