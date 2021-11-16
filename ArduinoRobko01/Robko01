@@ -1,0 +1,12 @@
+Reference, Quantity, Value, Footprint, Datasheet
+D1 ,1,"LED","LEDs:LED_D3.0mm",""
+J1 J2 ,2,"CONN_01X15","Connectors_Samtec:SL-115-X-XX_1x15",""
+J3 ,1,"A","Connectors_Samtec:SL-113-X-XX_1x13",""
+J4 ,1,"B","Connectors_Samtec:SL-113-X-XX_1x13",""
+J5 ,1,"C","Connectors_Samtec:SL-113-X-XX_1x13",""
+J6 ,1,"I2C","Connectors_Samtec:SL-104-X-XX_1x04",""
+J7 ,1,"UART","Connectors_Samtec:SL-104-X-XX_1x04",""
+J8 ,1,"SS","Connectors_Samtec:SL-102-X-XX_1x02",""
+J9 ,1,"SPI","Connectors_Samtec:SL-106-X-XX_1x06",""
+R1 ,1,"10k","Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",""
+R2 ,1,"330","Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",""
