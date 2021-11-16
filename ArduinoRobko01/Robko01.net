@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\User\Documents\Git\Robko01\hw_ard_nano_ext\ArduinoRobko01\Robko01.sch)
-    (date "16.11.2021 г. 22:17:06")
+    (date "16.11.2021 г. 22:39:27")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
